@@ -24,3 +24,29 @@ Currently, two official plugins are available:
 - import EditarProdutos from './components/EditarProdutos.jsx'
 - import Home from './components/Home.jsx'
 - import Erro404 from './components/Erro404.jsx'
+
+#Criando o objeto de rotas com o CreateBrowserRouter
+- const Routes = createBrowserRouter([
+  {path:'/', element:<App/>, 
+    children:[
+      {path:'/', element:<Home/>},
+      {path:'/produtos', element:<Produtos/>},
+      {path:'/editar/produtos/:id', element:<EditarProdutos/>}
+
+  ]}
+])
+
+#trocar o componente <App/> pelo componente <RouterProvider/> no ReactDOM.render
+- ReactDOM.render(
+    <React.StrictMode>
+        <RouterProvider/>
+    </React.StrictMode>
+)
+
+#Adicionando o props router ao componente RouterProvider
+-ReactDOM.render(
+    <React.StrictMode>
+        <RouterProvider router={router}/>
+    </React.StrictMode>
+)
+
