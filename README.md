@@ -16,3 +16,11 @@ Currently, two official plugins are available:
 
 #Criar as rotas ou páginas
 -Criando as rotas/páginas [home, EditarProdutos, Produtos, error 404]
+
+#Importar os objetos das rotas no main.jsx
+- import {createBrowserRouter, RouterProvider} from 'react-router-dom'
+- import {createBrowserRouter, RouterProvider} from 'react-router-dom'
+- import Produtos from './components/Produtos.jsx'
+- import EditarProdutos from './components/EditarProdutos.jsx'
+- import Home from './components/Home.jsx'
+- import Erro404 from './components/Erro404.jsx'
