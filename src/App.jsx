@@ -1,5 +1,5 @@
 import React from "react"
-import Cabecalho from "./components/Cabecalho"
+import Cabecalho from "./components/Cabecalho/Cabecalho"
 import Footer from "./components/Footer"
 import { Outlet } from "react-router-dom"
 export default function App() {
