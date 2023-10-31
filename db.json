@@ -5,5 +5,507 @@
       {"id":3, "nome":"Mouse","desc":"Mouse Óptico 6 Botões.","preco":220},
       {"id":4, "nome":"Mouse Pad","desc":"Mouse Pad Gamer 80 x 100.","preco":100},
       {"id":5, "nome":"Head Set","desc":"Head Set Gamer 8D.","preco":800}
+  ],
+  "usuarios": [
+    {
+      "name": "Chloe dos Anjos",
+      "email": "chloedosanjos@gmail.br",
+      "senha": "in,"
+    },
+    {
+      "name": "Illana Faria",
+      "email": "illanafaria@gmail.br",
+      "senha": "nulla"
+    },
+    {
+      "name": "Trevor do Nascimento",
+      "email": "trevordonascimento@fiap.br",
+      "senha": "egestas."
+    },
+    {
+      "name": "Yolanda Freire",
+      "email": "yolandafreire6860@fiap.br",
+      "senha": "eget,"
+    },
+    {
+      "name": "Duncan dos Reis",
+      "email": "duncandosreis@gmail.com",
+      "senha": "feugiat"
+    },
+    {
+      "name": "Duncan Souza",
+      "email": "duncansouza@gmail.br",
+      "senha": "velit"
+    },
+    {
+      "name": "Demetrius de Castro",
+      "email": "demetriusdecastro@hotmail.br",
+      "senha": "ultricies"
+    },
+    {
+      "name": "Eugenia Carneiro",
+      "email": "eugeniacarneiro@gmail.com",
+      "senha": "faucibus."
+    },
+    {
+      "name": "Risa Lemos",
+      "email": "risalemos@hotmail.com",
+      "senha": "Aliquam"
+    },
+    {
+      "name": "Garrison Gomes",
+      "email": "garrisongomes8610@hotmail.br",
+      "senha": "dapibus"
+    },
+    {
+      "name": "Andrew da Rosa",
+      "email": "andrewdarosa@fiap.com",
+      "senha": "odio"
+    },
+    {
+      "name": "Rhea Monteiro",
+      "email": "rheamonteiro@outlook.br",
+      "senha": "pretium"
+    },
+    {
+      "name": "Jermaine Lemos",
+      "email": "jermainelemos6586@outlook.com",
+      "senha": "eleifend"
+    },
+    {
+      "name": "Hasad Gonçalves",
+      "email": "hasadgonalves1326@hotmail.com",
+      "senha": "a,"
+    },
+    {
+      "name": "Frances Maia",
+      "email": "francesmaia6810@outlook.br",
+      "senha": "accumsan"
+    },
+    {
+      "name": "Blaze Campos",
+      "email": "blazecampos4956@gmail.com",
+      "senha": "Sed"
+    },
+    {
+      "name": "Illiana Azevedo",
+      "email": "illianaazevedo2989@outlook.br",
+      "senha": "ac"
+    },
+    {
+      "name": "Ezra Pacheco",
+      "email": "ezrapacheco5683@outlook.br",
+      "senha": "id,"
+    },
+    {
+      "name": "Megan Muniz",
+      "email": "meganmuniz@outlook.br",
+      "senha": "Pellentesque"
+    },
+    {
+      "name": "Mary Batista",
+      "email": "marybatista9078@hotmail.com",
+      "senha": "interdum"
+    },
+    {
+      "name": "Salvador Brito",
+      "email": "salvadorbrito@hotmail.br",
+      "senha": "nunc"
+    },
+    {
+      "name": "Trevor Carvalho",
+      "email": "trevorcarvalho@hotmail.com",
+      "senha": "sit"
+    },
+    {
+      "name": "Wendy Rodrigues",
+      "email": "wendyrodrigues@fiap.br",
+      "senha": "ut"
+    },
+    {
+      "name": "Indigo de Jesus",
+      "email": "indigodejesus8105@fiap.com",
+      "senha": "massa."
+    },
+    {
+      "name": "Lois de Barros",
+      "email": "loisdebarros@outlook.com",
+      "senha": "libero"
+    },
+    {
+      "name": "Marcia Viana",
+      "email": "marciaviana4713@hotmail.br",
+      "senha": "lectus"
+    },
+    {
+      "name": "Leandra Duarte",
+      "email": "leandraduarte619@gmail.com",
+      "senha": "dignissim."
+    },
+    {
+      "name": "Jenette de Freitas",
+      "email": "jenettedefreitas@fiap.br",
+      "senha": "eget"
+    },
+    {
+      "name": "Hunter Bastos",
+      "email": "hunterbastos1332@fiap.com",
+      "senha": "ultrices"
+    },
+    {
+      "name": "Veda Barros",
+      "email": "vedabarros@outlook.br",
+      "senha": "eget,"
+    },
+    {
+      "name": "Flynn Cabral",
+      "email": "flynncabral@gmail.br",
+      "senha": "sit"
+    },
+    {
+      "name": "Carly da Costa",
+      "email": "carlydacosta9122@gmail.br",
+      "senha": "sociis"
+    },
+    {
+      "name": "Malcolm Matias",
+      "email": "malcolmmatias9618@outlook.br",
+      "senha": "Nulla"
+    },
+    {
+      "name": "Yetta Aparecido",
+      "email": "yettaaparecido9857@outlook.com",
+      "senha": "suscipit"
+    },
+    {
+      "name": "Chester Cardoso",
+      "email": "chestercardoso@gmail.com",
+      "senha": "nibh"
+    },
+    {
+      "name": "Jorden Camargo",
+      "email": "jordencamargo@hotmail.br",
+      "senha": "adipiscing"
+    },
+    {
+      "name": "Vernon Soares",
+      "email": "vernonsoares6094@fiap.br",
+      "senha": "tempus"
+    },
+    {
+      "name": "Rana Alves",
+      "email": "ranaalves@hotmail.com",
+      "senha": "nisi"
+    },
+    {
+      "name": "Abraham Paiva",
+      "email": "abrahampaiva115@gmail.com",
+      "senha": "nisi"
+    },
+    {
+      "name": "Adena de Matos",
+      "email": "adenadematos@fiap.br",
+      "senha": "in"
+    },
+    {
+      "name": "Tamekah Das Chagas",
+      "email": "tamekahdaschagas@outlook.com",
+      "senha": "tincidunt"
+    },
+    {
+      "name": "Abel Cruz",
+      "email": "abelcruz422@gmail.br",
+      "senha": "fringilla"
+    },
+    {
+      "name": "Cheryl Matos",
+      "email": "cherylmatos7284@gmail.br",
+      "senha": "cubilia"
+    },
+    {
+      "name": "Mara de Santana",
+      "email": "maradesantana5552@hotmail.br",
+      "senha": "semper"
+    },
+    {
+      "name": "Glenna Freire",
+      "email": "glennafreire@fiap.com",
+      "senha": "natoque"
+    },
+    {
+      "name": "Roanna Maciel",
+      "email": "roannamaciel8028@hotmail.com",
+      "senha": "Cras"
+    },
+    {
+      "name": "Constance Vaz",
+      "email": "constancevaz3171@outlook.com",
+      "senha": "bibendum."
+    },
+    {
+      "name": "Talon Carneiro",
+      "email": "taloncarneiro4186@fiap.com",
+      "senha": "enim."
+    },
+    {
+      "name": "Kane Pinto",
+      "email": "kanepinto@gmail.br",
+      "senha": "ut,"
+    },
+    {
+      "name": "Cherokee Lopes",
+      "email": "cherokeelopes6958@outlook.br",
+      "senha": "Maecenas"
+    },
+    {
+      "name": "Shafira Feitosa",
+      "email": "shafirafeitosa6648@outlook.com",
+      "senha": "vel"
+    },
+    {
+      "name": "Deacon Camargo",
+      "email": "deaconcamargo7718@hotmail.br",
+      "senha": "egestas"
+    },
+    {
+      "name": "Rose Cordeiro",
+      "email": "rosecordeiro@gmail.br",
+      "senha": "risus."
+    },
+    {
+      "name": "Marny Moraes",
+      "email": "marnymoraes@hotmail.com",
+      "senha": "amet"
+    },
+    {
+      "name": "Kellie Coelho",
+      "email": "kelliecoelho@outlook.com",
+      "senha": "Quisque"
+    },
+    {
+      "name": "Bevis Marques",
+      "email": "bevismarques7348@fiap.br",
+      "senha": "interdum"
+    },
+    {
+      "name": "Aurora Monteiro",
+      "email": "auroramonteiro@gmail.com",
+      "senha": "sed,"
+    },
+    {
+      "name": "Ivana Carvalho",
+      "email": "ivanacarvalho@fiap.com",
+      "senha": "eros"
+    },
+    {
+      "name": "Vance de Andrade",
+      "email": "vancedeandrade@fiap.com",
+      "senha": "tellus"
+    },
+    {
+      "name": "Alyssa da Conceiçao",
+      "email": "alyssadaconceiao6412@gmail.com",
+      "senha": "Nullam"
+    },
+    {
+      "name": "Cade Braga",
+      "email": "cadebraga@hotmail.com",
+      "senha": "Donec"
+    },
+    {
+      "name": "Sopoline Dantas",
+      "email": "sopolinedantas@fiap.com",
+      "senha": "egestas"
+    },
+    {
+      "name": "Armando de Jesus",
+      "email": "armandodejesus@fiap.com",
+      "senha": "mi"
+    },
+    {
+      "name": "Jacqueline Melo",
+      "email": "jacquelinemelo@outlook.com",
+      "senha": "Curabitur"
+    },
+    {
+      "name": "Denton Ferreira",
+      "email": "dentonferreira@fiap.com",
+      "senha": "sodales"
+    },
+    {
+      "name": "Lester Siqueira",
+      "email": "lestersiqueira9349@hotmail.com",
+      "senha": "vel"
+    },
+    {
+      "name": "Iona Almeida",
+      "email": "ionaalmeida9666@fiap.br",
+      "senha": "Cras"
+    },
+    {
+      "name": "Philip Freire",
+      "email": "philipfreire@gmail.com",
+      "senha": "primis"
+    },
+    {
+      "name": "Holmes de Fatima",
+      "email": "holmesdefatima@fiap.br",
+      "senha": "lorem"
+    },
+    {
+      "name": "Rudyard Dias",
+      "email": "rudyarddias@fiap.com",
+      "senha": "eu,"
+    },
+    {
+      "name": "Sandra Bastos",
+      "email": "sandrabastos1619@hotmail.com",
+      "senha": "Phasellus"
+    },
+    {
+      "name": "Deborah da Luz",
+      "email": "deborahdaluz7522@hotmail.com",
+      "senha": "Morbi"
+    },
+    {
+      "name": "Brett do Nascimento",
+      "email": "brettdonascimento3700@outlook.com",
+      "senha": "Nullam"
+    },
+    {
+      "name": "Eugenia Das Dores",
+      "email": "eugeniadasdores7041@fiap.com",
+      "senha": "felis"
+    },
+    {
+      "name": "Jerome Mariano",
+      "email": "jeromemariano@fiap.com",
+      "senha": "Duis"
+    },
+    {
+      "name": "Zeph de Santana",
+      "email": "zephdesantana@outlook.com",
+      "senha": "porta"
+    },
+    {
+      "name": "Jason Mota",
+      "email": "jasonmota@hotmail.br",
+      "senha": "nulla"
+    },
+    {
+      "name": "Cooper Duarte",
+      "email": "cooperduarte8323@gmail.com",
+      "senha": "velit."
+    },
+    {
+      "name": "Brian Machado",
+      "email": "brianmachado9611@gmail.com",
+      "senha": "Ut"
+    },
+    {
+      "name": "Ira Cabral",
+      "email": "iracabral1088@hotmail.com",
+      "senha": "metus."
+    },
+    {
+      "name": "August de Brito",
+      "email": "augustdebrito@gmail.com",
+      "senha": "Proin"
+    },
+    {
+      "name": "Acton Garcia",
+      "email": "actongarcia@gmail.br",
+      "senha": "adipiscing"
+    },
+    {
+      "name": "Dawn dos Reis",
+      "email": "dawndosreis1414@gmail.com",
+      "senha": "Sed"
+    },
+    {
+      "name": "Madeline Franco",
+      "email": "madelinefranco@outlook.com",
+      "senha": "Suspendisse"
+    },
+    {
+      "name": "Cheryl Bento",
+      "email": "cherylbento@outlook.br",
+      "senha": "et"
+    },
+    {
+      "name": "Jin de Almeida",
+      "email": "jindealmeida2621@hotmail.br",
+      "senha": "lacinia"
+    },
+    {
+      "name": "Kelly Soares",
+      "email": "kellysoares3498@gmail.br",
+      "senha": "nonummy."
+    },
+    {
+      "name": "Melinda Vasconcelos",
+      "email": "melindavasconcelos1702@gmail.com",
+      "senha": "molestie"
+    },
+    {
+      "name": "Wesley Bezerra",
+      "email": "wesleybezerra@gmail.br",
+      "senha": "libero."
+    },
+    {
+      "name": "Shoshana Candido",
+      "email": "shoshanacandido@fiap.br",
+      "senha": "massa."
+    },
+    {
+      "name": "John Teles",
+      "email": "johnteles@fiap.com",
+      "senha": "Quisque"
+    },
+    {
+      "name": "Amos Santana",
+      "email": "amossantana5574@fiap.com",
+      "senha": "semper"
+    },
+    {
+      "name": "Lance Medeiros",
+      "email": "lancemedeiros@fiap.br",
+      "senha": "ligula"
+    },
+    {
+      "name": "Imani Santana",
+      "email": "imanisantana8492@gmail.br",
+      "senha": "Sed"
+    },
+    {
+      "name": "Amir Brito",
+      "email": "amirbrito@fiap.br",
+      "senha": "erat"
+    },
+    {
+      "name": "Hammett Reis",
+      "email": "hammettreis@fiap.br",
+      "senha": "porttitor"
+    },
+    {
+      "name": "Rahim de Araujo",
+      "email": "rahimdearaujo7905@gmail.br",
+      "senha": "Cras"
+    },
+    {
+      "name": "Regan Soares",
+      "email": "regansoares7477@fiap.br",
+      "senha": "Nam"
+    },
+    {
+      "name": "Neve Santiago",
+      "email": "nevesantiago9303@hotmail.com",
+      "senha": "In"
+    },
+    {
+      "name": "Gray de Carvalho",
+      "email": "graydecarvalho9447@hotmail.com",
+      "senha": "luctus"
+    }
   ]
 }
