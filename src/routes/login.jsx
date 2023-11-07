@@ -27,6 +27,21 @@ export default function Login() {
             const response = await fetch("http://localhost:5000/usuarios");
             if(response.ok){
                 console.log(response.json())
+                const user = await response.json()
+                for (let x = 0; x< user.length; x++){
+                    const u = user[x]
+                    if (u.email === usuario.email && u.senha === usuario.senha){
+                        user = u
+                        break
+                    }
+                }
+                window.location = "/"
+            }else{
+                setUsuario({
+                    "email":"",
+                    "senha":""
+                })
+                window.location = "/login"
             }
         } catch (error) {
             console.log(error);
@@ -37,7 +52,7 @@ export default function Login() {
   return (
     <div>
         <h1>Login - Informações do Usuário</h1>
-
+        <h2></h2>
         <div>
             <form onSubmit={handleSubmit}>
                 <fieldset>
