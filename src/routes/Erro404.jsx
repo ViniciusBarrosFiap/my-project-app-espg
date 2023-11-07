@@ -1,7 +1,6 @@
-function Erro404(){
-    return(
-        <div>Erro 404</div>
-    )
-}
 
-export default Erro404
+export default function Erro404() {
+  return (
+    <div>Erro404</div>
+  )
+}
